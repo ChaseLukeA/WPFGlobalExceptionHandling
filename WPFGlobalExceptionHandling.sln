@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFGlobalExceptionHandling", "WPFGlobalExceptionHandling\WPFGlobalExceptionHandling.csproj", "{070C1AB4-464C-4D64-87C1-E88C6C0B0F02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{070C1AB4-464C-4D64-87C1-E88C6C0B0F02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{070C1AB4-464C-4D64-87C1-E88C6C0B0F02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{070C1AB4-464C-4D64-87C1-E88C6C0B0F02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{070C1AB4-464C-4D64-87C1-E88C6C0B0F02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2532F29F-B7CD-4684-BFCF-418D95FF75F9}
+	EndGlobalSection
+EndGlobal
